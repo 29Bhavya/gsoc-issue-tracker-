@@ -79,7 +79,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
 
 If you have any questions or feedback, feel free to reach out:
 
-- Project Maintainer: Mudit Jain
-- Email: muditert34@gmail.com
+- Project Maintainer: Bhavya Mendiratta
+- Email: bhavyamendiratta2003@gmail.com
 
 Happy coding!
